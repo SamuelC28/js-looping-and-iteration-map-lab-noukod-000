@@ -3,7 +3,9 @@ function lowerCaseDrivers(drivers){
   return drivers.map(function(driver) { return driver.toLowerCase()});
 }
 
-  // function map(drivers, function(lowCaseDrivers)) {
+ function nameToAttributes() {
+   
+ }
   //     const newArr = [];
   //
   //     for (const drivers of drivers) {
