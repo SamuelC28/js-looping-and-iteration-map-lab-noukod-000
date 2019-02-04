@@ -4,11 +4,11 @@
  //  return newDrivers;
 
   function map(drivers, function(lowCaseDrivers)) {
-      const newArr = [];
-
-      for (const drivers of drivers) {
-          newArr.push(callback(lowCaseDrivers));
-      }
+      // const newArr = [];
+      // 
+      // for (const drivers of drivers) {
+      //     newArr.push(callback(lowCaseDrivers));
+      // }
 
       return newArr;
   }
