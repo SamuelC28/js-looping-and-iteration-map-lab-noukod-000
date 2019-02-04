@@ -5,10 +5,10 @@ function lowerCaseDrivers(drivers, function(lcaseDrivers)){
 
   // function map(drivers, function(lowCaseDrivers)) {
   //     const newArr = [];
-  // 
+  //
   //     for (const drivers of drivers) {
   //         newArr.push(callback(lowCaseDrivers));
   //     }
-  // 
+  //
   //     return newArr;
   // }
