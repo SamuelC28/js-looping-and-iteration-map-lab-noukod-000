@@ -1,7 +1,7 @@
 // Code your solution in this file.
 function lowerCaseDrivers(drivers{
-  return drivers.map(function(driver)) { return driver.toLowerCase});
-  // return newDrivers;
+  return drivers.map(function(driver) { return driver.toLowerCase()});
+}
 
   // function map(drivers, function(lowCaseDrivers)) {
   //     const newArr = [];
@@ -12,5 +12,3 @@ function lowerCaseDrivers(drivers{
   //
   //     return newArr;
   // }
-  function lowerCaseDrivers(drivers){
-  return drivers.map(function (emp){return emp.toLowerCase()});
