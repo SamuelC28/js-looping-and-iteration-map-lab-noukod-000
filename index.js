@@ -4,7 +4,7 @@ function lowerCaseDrivers(drivers){
 }
 
  function nameToAttributes() {
-   
+
  }
   //     const newArr = [];
   //
@@ -14,4 +14,3 @@ function lowerCaseDrivers(drivers){
   //
   //     return newArr;
   // }
-  
